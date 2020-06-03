@@ -1,2 +1,2 @@
 # shrot
-Ksut another online URL shortner.
+Just another online URL shortner.
